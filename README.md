@@ -5,5 +5,6 @@ Proyecto para la competencia *peores formularios* DCC. El formulario pide el nom
 ## Cómo probar
 1. Clona el repo:
 ```bash
-git clone https://github.com/Sstaroo/worst-form.git
-cd worst-form
+git clone https://github.com/Sstaroo/Flappy-Input.git
+cd Flappy-Input
+
